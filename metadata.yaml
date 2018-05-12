@@ -1,0 +1,32 @@
+_repo: Essays-on-early-ornithology-and-kindred-subjects_24506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McClymont, James Roxburgh
+    gutenberg_agent_id: '26535'
+    url: http://www.gutenberg.org/2009/agents/26535
+description: ''
+gutenberg_bookshelf:
+- Natural History
+- Biology
+- Animals-Wild-Birds
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+- !lcsh 'Ornithology -- History'
+tableOfContents: "The Rukh of Marco Polo\r\nThe Penguins and the Seals of the Angra\
+  \ de Sam Bràs\r\nThe Banda Islands and the Bandan Birds\r\nThe Etymology of the\
+  \ Name 'Emu'\r\nAustralian Birds in 1697\r\nNew Zealand Birds in 1772"
+title: Essays on early ornithology and kindred subjects
+url: http://www.gutenberg.org/ebooks/24506
